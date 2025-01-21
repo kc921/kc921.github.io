@@ -40,7 +40,7 @@ menu:
       weight: 6
       url: "https://www.linkedin.com/in/hungchiko921/"
       params:
-        icon: icons/brand-linkedin.svg
+        icon: icons/linkedin.png
 
 params:
   navbar:
