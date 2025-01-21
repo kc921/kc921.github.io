@@ -55,4 +55,4 @@ params:
 
   favicon: /favicon.ico
 
-
+baseURL: "https://kc921.github.io/"
