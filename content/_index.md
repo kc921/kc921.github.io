@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Welcome to my space 🫧
 toc: false
 ---
 
-This is the landing page.
+A twist in the tale, from Taiwanese lit. to data's midst, also AI join the list. Life's too short for the usual gist, why not let norms be dismissed!
 
 ## Explore
 
@@ -12,6 +12,4 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
