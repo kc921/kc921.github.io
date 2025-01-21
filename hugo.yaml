@@ -53,6 +53,6 @@ params:
     displayCopyright: false
     displayPoweredBy: false
 
-  favicon: /favicon.ico
+  favicon: "/favicon.ico"
 
 baseURL: "https://kc921.github.io/"
