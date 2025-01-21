@@ -1,3 +1,5 @@
+enableInlineShortcodes: true
+
 # Hugo configuration file
 title: Kathy's Portfolio
 
@@ -40,7 +42,7 @@ menu:
       weight: 6
       url: "https://www.linkedin.com/in/hungchiko921/"
       params:
-        icon: "linkedin.png"
+        icon: linkedin
 
 params:
   navbar:
